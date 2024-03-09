@@ -1,2 +1,2 @@
 # Autonomous-car
-Autonomous car using AVR
+Autonomous car using AVR ATMEGA32
